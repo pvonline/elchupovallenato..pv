@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box ;  
+  }
+  
+  body{
+     background-color: #c8a58d;
+     font-family: Arial, Helvetica, sans-serif;
+     
+  }
+  
+
+  .container {
+    position: absolute;
+    margin: 10px;
+    padding: 5px auto 0;
+    right: 8px;
+    width: 96%;
+    height: 0 0px;
+    }
